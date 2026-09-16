@@ -66,7 +66,7 @@ Me chamo Marques, tenho 25 anos e sou natural de Saubara-BA. Atualmente, estou c
 ### 🚀 Projetos
  
 #### 🔹 [Finance Hub](https://github.com/web-will/financehub)
-> Breve descrição do projeto — o que ele faz e qual problema resolve.
+> O FinanceHub é uma aplicação desenvolvida para auxiliar no controle financeiro pessoal, permitindo que os usuários acompanhem suas receitas, despesas e movimentações financeiras de forma simples e organizada.
  
 
 **Tecnologias:** `HTML` `CSS` `JavaScript`

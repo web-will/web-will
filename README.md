@@ -1,5 +1,3 @@
-#  Marques W Santos
-
 **`Desenvolvedor Front-End`** | **`Web Designer`**
 
 Me chamo Marques, tenho 25 anos e sou natural de Saubara-BA. Atualmente, estou cursando Sistemas para Internet na ESTÁCIO e busco aprender cada vez mais para desenolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida com aquilo que faço. Sempre buscando aprender, evoluir e me desenvolver, tanto profissionalmente quanto. 
@@ -67,7 +65,7 @@ Me chamo Marques, tenho 25 anos e sou natural de Saubara-BA. Atualmente, estou c
 
 ### 🚀 Projetos
  
-#### 🔹 [Finance Hub](LINK_DO_REPOSITORIO)
+#### 🔹 [Finance Hub](https://github.com/web-will/financehub)
 > Breve descrição do projeto — o que ele faz e qual problema resolve.
  
 
